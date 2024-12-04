@@ -1,6 +1,6 @@
-# project_uas
+# NS SHOP
 
-A new Flutter project.
+E-Commerce Application Mobile
 
 ## Getting Started
 
